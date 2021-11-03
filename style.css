@@ -154,3 +154,136 @@ body {
 .active {
   color: white;
 }
+
+.head-2 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(15, 100%, 70%);
+  border: none;
+  z-index: -1;
+}
+
+.head-2 img {
+  position: absolute;
+  right: 5%;
+  top: -10px;
+}
+
+.card-2 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  top: -15px;
+  border-radius: 20px;
+}
+
+.head-3 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(195, 74%, 62%);
+  border: none;
+  z-index: -1;
+}
+
+.head-3 img {
+  position: absolute;
+  right: 5%;
+  top: -10px;
+}
+
+.card-3 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  border-radius: 20px;
+  top: -15px;
+}
+
+.head-4 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(348, 100%, 68%);
+  border: none;
+  z-index: -1;
+}
+.head-4 img {
+  position: absolute;
+  right: 5%;
+  top: -10px;
+}
+.card-4 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  top: -15px;
+  border-radius: 20px;
+}
+.head-5 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(145, 58%, 55%);
+  border: none;
+  z-index: -1;
+}
+.head-5 img {
+  position: absolute;
+  right: 5%;
+  top: -7px;
+}
+.card-5 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  top: -15px;
+  border-radius: 20px;
+}
+.head-6 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(264, 64%, 52%);
+  border: none;
+  z-index: -1;
+}
+.head-6 img {
+  position: absolute;
+  right: 5%;
+  top: -19px;
+}
+.card-6 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  top: -15px;
+  border-radius: 20px;
+}
+.head-7 {
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  background-color: hsl(43, 84%, 65%);
+  border: none;
+  z-index: -1;
+}
+.head-7 img {
+  position: absolute;
+  right: 5%;
+  top: -10px;
+}
+.card-7 {
+  position: relative;
+  z-index: 1;
+  height: 220px;
+  background-color: hsl(235, 46%, 20%);
+  top: -15px;
+  border-radius: 20px;
+}
