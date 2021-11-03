@@ -287,3 +287,429 @@ body {
   top: -15px;
   border-radius: 20px;
 }
+.h-2 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-2 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-2 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-2 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-2 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-2 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+.h-3 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-3 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-3 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-3 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-3 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-3 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+.h-4 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-4 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-4 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-4 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-4 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-4 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+.h-5 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-5 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-5 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-5 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-5 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-5 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+.h-6 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-6 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-6 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-6 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-6 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-6 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+.h-7 {
+  display: flex;
+  position: relative;
+  top: 30px;
+  left: 35px;
+}
+.h-7 img {
+  position: absolute;
+  right: 25%;
+  top: 6px;
+  height: 8px;
+  width: 30px;
+}
+.h-7 h4 {
+  color: white;
+  letter-spacing: 1px;
+}
+.main-7 {
+  position: relative;
+  top: 60px;
+  left: 35px;
+}
+.main-7 h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+.main-7 h5 {
+  position: relative;
+  top: 10px;
+  color: rgba(255, 255, 255, 0.651);
+}
+
+/* @media only screen and (max-width: 768px) {
+  .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card-2, .card-3, .card-4, .card-5, .card-6, .card-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .h-2, .h-3, .h-4, .h-5, .h-6, .h-7 {
+    width: 85%;
+    left: 0;
+  }
+
+
+} */
+
+@media only screen and (max-width: 768px) {
+  .container {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .card-2,
+  .card-3,
+  .card-4,
+  .card-5,
+  .card-6,
+  .card-7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .h-2,
+  .h-3,
+  .h-4,
+  .h-5,
+  .h-6,
+  .h-7 {
+    width: 85%;
+    left: 0;
+  }
+  .div-2 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-2 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+  .main-2,
+  .main-3,
+  .main-4,
+  .main-5,
+  .main-6,
+  .main-7 {
+    top: 40px;
+    width: 85%;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  .main-2 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+  .h-2 img,
+  .h-3 img,
+  .h-4 img,
+  .h-5 img,
+  .h-6 img,
+  .h-7 img {
+    right: 0;
+  }
+  .main-2 h5,
+  .main-3 h5,
+  .main-4 h5,
+  .main-5 h5,
+  .main-6 h5,
+  .main-7 h5 {
+    top: 20px;
+  }
+  .div-3 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-3 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+
+  .main-3 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+
+  .div-4 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-4 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+
+  .main-4 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+
+  .div-5 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-5 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+
+  .main-5 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+
+  .div-6 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-6 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+
+  .main-6 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+
+  .div-7 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-7 img {
+    position: absolute;
+
+    right: 3%;
+
+    top: -10px;
+  }
+
+  .main-7 h1 {
+    font-size: 50px;
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+  }
+
+  .div-1 {
+    width: 90%;
+    height: 170px;
+  }
+  .head-1 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .head-1 img {
+    top: 15px;
+    left: 0;
+  }
+  .text {
+    width: fit-content;
+    height: fit-content;
+    left: 0;
+    top: 40px;
+  }
+  .text h4 {
+    top: -3px;
+  }
+  .name {
+    display: flex;
+  }
+  .text h1 {
+    font-size: 160%;
+  }
+  #sirname {
+    margin-left: 5px;
+  }
+  .main-1 {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .btn-1,
+  .btn-2,
+  .btn-3 {
+    margin-left: 0;
+  }
+}
